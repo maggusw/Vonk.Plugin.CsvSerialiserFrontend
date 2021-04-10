@@ -26,7 +26,7 @@ Then add the plugin to the Vonk configuration by adding `CsvFrontend` to the Inc
 
 ## Usage
 
-Once the plugin is loaded, it is accessible via `https://hdp-fhir-dev-pub.charite.de/csv-serialiser`
+Once the plugin is loaded, it is accessible via `http://localhost:4080`
 
 ## Error handling
 
