@@ -94,7 +94,6 @@ export default {
       url: '',
       response: '',
       baseUrl: 'http://localhost:4080/R4/',
-      // baseUrl: 'https://hdp-fhir-dev-pub.charite.de/',
       appendUrl: '/$csv',
       convertedCsv: Object,
       selectedHeaders: [],
